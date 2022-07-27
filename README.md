@@ -6,4 +6,6 @@ scheduler challenge
 - Added in if, else if, else statement for past, present, and future for time blocks to show colors for each. 
 - Added in local storage when save button is used. 
 
+Link to live website: https://aslaviero.github.io/Work-Day-Scheduler-Challenge/
+
 
